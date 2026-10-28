@@ -2,8 +2,10 @@
 
 geoip2
 
+***Website
 https://geoip2.com
 
-[https://geoip2.com/v1/1.1.1.1](https://geoip2.com/v1/1.1.1.1)
 
+
+***API Usage
 [https://geoip2.com/v1/1.1.1.1](https://geoip2.com/v1/1.1.1.1)
